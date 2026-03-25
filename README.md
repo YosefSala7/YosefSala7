@@ -15,5 +15,5 @@
 
 <h3 align="left">Tech Stack:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=dart,flutter,git,vscode,androidstudio,node.js,react,tailwind" />
+  <img src="https://skillicons.dev/icons?i=dart,flutter,git,vscode,androidstudio,nodejs,react,tailwind" />
 </p>
