@@ -3,8 +3,8 @@
 ### 🚀 Flutter Developer
 - 🔭 I’m currently working on **Islamic Flutter Application**
 - 🌱 I’m currently learning **Advanced Flutter & Architecture Patterns**
-- 📫 How to reach me: **yosefsalah211@gmail.com**[cite: 4]
-- 📄 My Resume: [View Here](https://drive.google.com/file/d/1Q_cBJMiQeOHg-6EN4vciE0FqBrLiXoqC/view?usp=sharing)[cite: 4]
+- 📫 How to reach me: **yosefsalah211@gmail.com**
+- 📄 My Resume: [View Here](https://drive.google.com/file/d/1Q_cBJMiQeOHg-6EN4vciE0FqBrLiXoqC/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -15,5 +15,5 @@
 
 <h3 align="left">Tech Stack:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,git,vscode,androidstudio,postman" />
+  <img src="https://skillicons.dev/icons?i=dart,flutter,git,vscode,androidstudio,node.js,react,tailwind" />
 </p>
